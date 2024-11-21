@@ -20,7 +20,7 @@ pip install vws
 ## Usage
 Here’s a quick example of how to use the VirtualWorkspace package:
 
-```
+```python
 from vws import Workspace
 
 # Create a new workspace
@@ -57,7 +57,7 @@ Represents a virtual workspace with a root directory. It allows users to create 
 If you would like to contribute to the development of VirtualWorkspace, feel free to fork the repository and submit a pull request. Any contributions, whether bug fixes, enhancements, or documentation improvements, are welcome!
 
 
-## #Author
+## Author
 Lyan
 Email: admin@blackcoffee.lol
 GitHub: Akicuo
