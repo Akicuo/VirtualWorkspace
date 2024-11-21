@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='vws',
     version='0.1',
-    packages=find_packages(),
+    packages=['vws'],
     install_requires=[
     ],
     author='Lyan',
@@ -11,7 +11,7 @@ setup(
     description='Consists of three main classes: File, Directory, and Workspace. Together, these classes allow users to create, manage, and organize files and directories in a virtual workspace.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://https://github.com/Akicuo/VirtualWorkspace',
+    url='https://github.com/Akicuo/VirtualWorkspace',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
