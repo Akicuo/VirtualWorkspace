@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='vws',
-    version='0.1',
+    version='0.2',
     packages=['vws'],
     install_requires=[
     ],
